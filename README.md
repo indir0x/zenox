@@ -2,9 +2,6 @@
 
 **Framework de Pentest e OSINT com Interface Terminal Hacker-Style Agressiva**
 
-Uma versão completamente reformulada e aprimorada do framework original, desenvolvida especificamente para profissionais de cibersegurança e pentesters que buscam uma ferramenta poderosa e visualmente impactante.
-
-## 🔥 NOVIDADES DA VERSÃO 2.1
 
 ### Interface Hacker-Style Agressiva
 - **Banner Animado Estilo MSF** com múltiplas variações e efeito glitch
@@ -296,7 +293,7 @@ nse_scripts = [
 Este projeto está licenciado sob a **MIT License** - veja o arquivo LICENSE para detalhes.
 
 **Copyright © 2024 ZENOX Framework Team**
-
+By: !ndir0x
 ---
 
 ## 🎯 Mensagem Final
